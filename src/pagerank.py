@@ -6,6 +6,8 @@ r = {}
 lamda = 0.15
 tau = 0.0001
 
+#Patrick Kelly
+
 def convergence(r, i):
     norm = 0
     for page in r:
